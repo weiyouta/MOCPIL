@@ -1,2 +1,5 @@
 # MOCPIL
-Method source code of Privileged Multi-view One-class Support Vector Machine.
+Experimental datasets and source codes of Privileged Multi-view One-class Support Vector Machine.
+## How to use
+run main.m.
+
