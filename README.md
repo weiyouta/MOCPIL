@@ -1,4 +1,5 @@
-== MOCPIL in Matlab ==
+##MOCPIL in Matlab
+
 This is the code for our paper “Privileged Multi-view One-class Support Vector Machine”, 2023.
 
 1. Introduction
