@@ -11,12 +11,12 @@ Matlab R2021b version
 ##### 3. Datasets
 MOCPIL is evaluated on several multi-view one-class classification datasets, i.e., Handwritten, Caltech-7 and NUS-WIDE. 
 
-(2) For the above datasets, the data format is as follows: 
+(1) For the above datasets, the data format is as follows: 
 - Handwritten: Pix(240), Fou(76)
 - Caltech-7: Gabor(48), WM(40)
 - NUS-WIDE: CH(65), CM(226)
 
-(3) All the above experimental datasets can be downloaded from link https://mega.nz/folder/O7wzXR6L#-Hisbcv_Hw-1_aVPkmJITQ. 
+(2) All the above experimental datasets can be downloaded from link https://mega.nz/folder/O7wzXR6L#-Hisbcv_Hw-1_aVPkmJITQ. 
 
 ##### 4. Run codes
 (1)How to run the codes?
